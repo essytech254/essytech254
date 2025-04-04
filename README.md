@@ -3,7 +3,7 @@
 
 - 🚀 I’m currently learning Software Engineering at PLP Academy.
 - 🔥 I am dedicated to mastering various programming concepts, building real-world          projects, and continuously improving my skills..
-- 🖥️  See my [Portfolio]https://essytech254.github.io/Esthermuthoni.github.io/
+- 🖥️  See my [Portfolio][https://essytech254.github.io/PLP-Hackathon1/]
 - 💡 I’m open to collaborations on projects.
 - 📫 Reach me at: esthermuthoni030@gmail.com
 - ⚡ Fun fact: I'm a teacher by profession 
